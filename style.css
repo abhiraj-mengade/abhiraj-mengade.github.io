@@ -1,14 +1,19 @@
 .Name {
+    
     text-align: center;
     padding: 3%;
     font-family: 'Redressed', cursive;
     background-color: #dff3e3;
+    
+    width: 100%;
+    height: 100%;
   }
     
 .info {
     font-size: 900%;
     color:#65d6ce;
     font-family: 'Cookie', cursive;
+    
 }
 .img1{
     max-height:100px;
@@ -35,6 +40,8 @@
     font-family: 'Charmonman', cursive;
     background-color: whitesmoke;
     padding: 3%;
+    width: 100%;
+    height: 100%;
 
 }
 .mepar{
@@ -62,6 +69,8 @@
     text-align: center;
     font-family: 'Raleway', sans-serif;
     padding: 5%;
+    width: 100%;
+    height: 100%;
 
 }
 .inte{
