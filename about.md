@@ -2,9 +2,14 @@
 layout: page
 title: About
 ---
+>"Without toil swayeth all things by the force of his mind.."
+><small>— Xenophanes</small>
+<div style="text-align: left">
+![myself]({{ site.baseurl }}/img/mypic.jpg) <small>Meself!</small>
+</div>
+---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/stijnvc/holo-alfa).
+
 
 ---
 
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
