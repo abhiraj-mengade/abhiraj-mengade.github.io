@@ -7,12 +7,12 @@ description:
   # Description of your site. This will show up in google.
   meta: Abhiraj Mengade. Personal Page and Articles.
   # Description of your site. This will show up on the front page.
-  subtitle: <p style="color:#000000">Ahoy! Did you stumble here by a rare chance? I don't think so. Well, I'm Abhiraj, an admirer of Unconventional Problem Solving & Natural Philosophy trying to gather and appreciate Ideas with strong reason. Currently exploring the intricacies of Intelligence as a whole, Artificial as well as Natural. Prioritizing logic and reason over emotions isn't natural it simply needs effort, which I am trying to make.<br></p><br><a href="https://github.com/abhiraj-mengade">&lt;/&gt; Github</a>.<br><a href="https://www.linkedin.com/in/abhiraj-mengade-596550191/">&lt;/&gt; Linkedin</a>.<br>
+  subtitle: <p style="color:#000000">Ahoy! Did you stumble here by a rare chance? I don't think so. Well, I'm Abhiraj, an admirer of Unconventional Problem Solving & Natural Philosophy trying to gather and appreciate Ideas with strong reason. Currently exploring the intricacies of Intelligence as a whole, Artificial as well as Natural.<br></p><br><a href="https://github.com/abhiraj-mengade">&lt;/&gt; Github</a>.<br><a href="https://www.linkedin.com/in/abhiraj-mengade-596550191/">&lt;/&gt; Linkedin</a>.<br>
 
 author:
   name: Abhiraj Mengade # Change this!
   # Necessary for contact page
-  email: i2am@yandex.com # Change this!
+  email: abhiraj.mengade@outlook.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -86,7 +86,7 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter:
+twitter: "https://twitter.com/AbhirajMengade"
 youtube:
 instagram:
 tumblr:
@@ -96,7 +96,7 @@ reddit:
 soundcloud:
 medium:
 linkedin: "https://www.linkedin.com/in/abhiraj-mengade-596550191/"
-github:
+github: "https://github.com/abhiraj-mengade"
 behance:
 codepen:
 dribbble:
