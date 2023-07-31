@@ -4,7 +4,6 @@ title: /contact
 ---
 
 <img src="../assets/img/field.jpg"/>
-twitter: [@aleesteele](twitter.com/aleesteele)
-instagram: [@aleestee1e](https://www.instagram.com/aleestee1e/)
-are.na: [anne lee steele](https://www.are.na/anne-lee-steele)
-linkedin: [anne lee steele](https://www.linkedin.com/in/anneleesteele/)
+twitter: [@AbhirajMengade](twitter.com/AbhirajMengade)
+instagram: [@lensing_riyu](https://www.instagram.com/lensing_riyu/)
+linkedin: [Abhiraj Mengade](https://www.linkedin.com/in/abhiraj-mengade/)
