@@ -21,9 +21,9 @@ Check my photography playbook <a href="https://www.playbook.com/s/riyuzakiog/CKm
 - <a href="https://pypi.org/project/Finstein/">Finstein</a> - A python package for financial analysis and portfolio management.
 # hackathons
 
-- Polka Sociathon, Paris - 3rd Place (<a href="https://github.com/abhiraj-mengade/GreenTrust"> Greentrust </a> )
-- Winners @EthIndia'22 , Bangalore (<a href="https://devfolio.co/projects/chargeswap-3527"> ChargeSwap </a> ) 
-- Top 10 @M# Hackathon'22, Udupi (<a href="https://github.com/Team-Huntly/Huntly"> Huntly </a>)
+- Polka Sociathon, Paris - 3rd Place (<a href="https://github.com/abhiraj-mengade/GreenTrust">Greentrust</a>)
+- Winners @EthIndia'22 , Bangalore (<a href="https://devfolio.co/projects/chargeswap-3527">ChargeSwap</a>) 
+- Top 10 @M# Hackathon'22, Udupi (<a href="https://github.com/Team-Huntly/Huntly">Huntly</a>)
 
 # other
 - Serendpity Art Foundation Grant Awardee 2023
