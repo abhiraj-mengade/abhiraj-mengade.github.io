@@ -1,8 +1,8 @@
 # Example Site settings
-title: anne lee steele # name of the site
-author: anne lee steele # name of site's author
-email: aleesteele@gmail.com # email of site's author
-url: https://aleesteele.com # root address of the site
+title: Abhiraj Mengade # name of the site
+author: Abhiraj Mengade # name of site's author
+email: abhiraj.mengade@outloo.com # email of site's author
+url: https://abhiraj-mengade.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
 
