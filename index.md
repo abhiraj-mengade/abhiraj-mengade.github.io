@@ -9,6 +9,5 @@ permalink: /
 
 i'm currently:
 @ Upcoming MTS at Oracle, Bangalore
-@ Software Consultant at <a href="https://deepforestsci.com/">Deep Forest Sciences</a>
 @ <a href="https://www.nitk.ac.uk/">Final year Computer Science undergrad at NITK</a>
 +++ a [few other things](about)...
