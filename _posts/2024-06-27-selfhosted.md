@@ -7,8 +7,7 @@ date: 2020-06-27 22:40:30 +0000
 
 # On the Hobby of Self-Hosting
 
-
- ### Autonomy
+### Autonomy
 
 To understand the allure of self-hosting one needs to understand the need for autonomy in humans. Is autonomy a whim or preference? It surely comes off as an adaptive trait, whereby if one is stuck in a dangerous situation one could get off through the use of autonomous decisions. Adaptive Evolution, you see. In such the quest for autonomy is a fundamental aspect of our species’ evolutionary trajectory. 
 
