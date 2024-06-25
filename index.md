@@ -8,6 +8,6 @@ permalink: /
 # Hi, I'm Abhiraj Mengade.
 
 i'm currently:
-@ Upcoming MTS at Oracle, Bangalore
+@ MTS at Oracle, Bangalore
 @ <a href="https://www.nitk.ac.uk/">Final year Computer Science undergrad at NITK</a>
 +++ a [few other things](about)...

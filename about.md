@@ -18,9 +18,10 @@ When not at the desk, I generally spend time photographing, travelling, reading 
 
 # hackathons
 
-- Polka Hackathon, Paris - 3rd Place (<a href="https://github.com/abhiraj-mengade/GreenTrust">Greentrust</a>)
+- Polkadot Hackathon, Paris - 3rd Place (<a href="https://github.com/abhiraj-mengade/GreenTrust">Greentrust</a>)
 
 - Winners @EthIndia'22 , Bangalore (<a href="https://devfolio.co/projects/chargeswap-3527">ChargeSwap</a>) 
+
 - Top 10 @M# Hackathon'22, Manipal (<a href="https://github.com/Team-Huntly/Huntly">Huntly</a>)
 
 # other
