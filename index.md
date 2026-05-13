@@ -8,6 +8,6 @@ permalink: /
 # Hi, I'm Abhiraj Mengade.
 
 i'm currently:
-@Member of Technical Staff at Oracle, Bangalore
+@Building [Skyllai](https://skyllai.com)
 @Co-founder at MontaQ Labs
 +++ a [few other things](about)...

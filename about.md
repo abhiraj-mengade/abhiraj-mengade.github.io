@@ -8,12 +8,14 @@ permalink: /about
 
 # Abhiraj Mengade
 
-I'm a software engineer and blockchain enthusiast. I've worked at Oracle Cloud Infrastructure (OCI) and consulted for various Web3 projects. I'm also the co-founder of MontaQ Labs.
+I'm a software engineer and entrepreneur. I'm currently building [Skyllai](https://skyllai.com), an edtech startup, and I am the co-founder of MontaQ Labs. Previously, I worked at Oracle Cloud Infrastructure (OCI).
 
 I graduated from the Polkadot Blockchain Academy (PBA) 2024 Singapore Cohort with Distinction (96.5/100).
 
 # work experience
 
+- **Skyllai** | Founder (2026 – Present)
+  - Building the future of education.
 - **Oracle -- OCI** | Member of Technical Staff (May 2024 – Apr 2026)
   - Upgraded multi-ASN architecture across 10+ datacenters.
   - Implemented Zero-Trust security using Calico and OPA.
