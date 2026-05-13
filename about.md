@@ -8,26 +8,74 @@ permalink: /about
 
 # Abhiraj Mengade
 
-I'm a Computer Science undergrad at NITK Suratkal. I am also pursuing a Bachelor's in Data Science from IIT, Madras.
+I'm a software engineer and blockchain enthusiast. I've worked at Oracle Cloud Infrastructure (OCI) and consulted for various Web3 projects. I'm also the co-founder of MontaQ Labs.
 
-When not at the desk, I generally spend time photographing, travelling, reading or watching movies.
+I graduated from the Polkadot Blockchain Academy (PBA) 2024 Singapore Cohort with Distinction (96.5/100).
 
-You can check my photography playbook <a href="https://www.playbook.com/riyuportfolio/d3Gk6hy14dEeS9z4XvJ1qqyu">here</a>, or my <a href="https://www.instagram.com/pixels_and_bits/">instagram</a>.
+# work experience
 
+- **Oracle -- OCI** | Member of Technical Staff (May 2024 – Apr 2026)
+  - Upgraded multi-ASN architecture across 10+ datacenters.
+  - Implemented Zero-Trust security using Calico and OPA.
+- **Unit Network** | Web3 Consultant (Aug – Sep 2025)
+  - Engineered Substrate-based Rust pallets for the Unit blockchain.
+- **Deep Forest Sciences** | Software Consultant (Feb – May 2023)
+  - Designed the Chiron language (EBNF parser) and automated database migrations.
+- **Hexagon AB** | Project Intern (Aug – Oct 2022)
+  - Built an interactive Ashby Material Chart generation module for materials analytics.
 
-# hackathons & stuff
+# hackathons & accomplishments
 
-- Graduated Polka Blockchain Academy 2024: Singapore Cohort with Distinction 96.5/100.
+- **ZKAMA** | 1st Prize @ Polkadot AssetHub Hackathon, Goa
+  - Zero-Knowledge verifier SDK for Kusama PolkaVM.
+- **Relay** | 1st Prize @ Polkadot Hackathon: Bangkok Edition
+  - Payment ecosystem app for Polkadot. W3F Grant recipient.
+- **Khoj** | Winner @ ETHIndia 2024
+  - Treasure hunt dapp on Polkadot. W3F Fast Grant recipient.
+- **GreenTrust** | Top 3 @ Polkadot Global Europe '23, Paris
+  - Organic farming certification platform.
+- **ChargeSwap** | Winner @ ETHIndia '22
+  - EV battery swapping platform. $5k Filecoin grant.
+- **ETHIndia Villa 2025** | 1st Place Winner.
+- **ETHGlobal New Delhi 2025** | Rootstock Infrastructure Track winner.
 
-- Polkadot Hackathon, Paris - 3rd Place (<a href="https://github.com/abhiraj-mengade/GreenTrust">Greentrust</a>)
+# extra curricular & community
 
-- Winners @EthIndia'22 , Bangalore (<a href="https://devfolio.co/projects/chargeswap-3527">ChargeSwap</a>) 
+- **MontaQ Labs** | Co-founder
+  - Developing Web3 infra and community building in APAC. Backed by Web3 Foundation.
+- **Polkadot Open Source Bounty** | Curator (2025 – Present)
+  - Reviewing and curating open-source project proposals.
+- **Polkadot Developer Workshop Series** | Educator/Organizer
+  - Educated 600+ students across top institutes like IIT Bombay, IIT Roorkee, NITK.
+- **PBA-X** | Teaching Assistant (Jan – Feb 2025)
+  - Mentored 200+ students in blockchain and decentralization.
 
-- Top 10 @M# Hackathon'22, Manipal (<a href="https://github.com/Team-Huntly/Huntly">Huntly</a>)
+# other stuff
 
-# other
-- Serendpity Art Foundation Grant Awardee 2023
-- FileCoin Grant Awardee 2022
-- INAO Contestant 2019
+- **Photography**: Check my portfolio on [Pexels](https://www.pexels.com/@abhiraj-mengade-1478094393/).
+- **Travel**: I've explored Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, and Taiwan.
+
+```text
+          _..-''-.._
+        .'          '.
+       /   _..-.._    \        _..-''-.._
+      |   /       \   |      .'          '.
+      |   |       |   |     /   _..-.._    \
+       \   \_   _/   /     |   /       \   |
+        '.   ''   .'        |   |       |   |
+          '-....-'           \   \_   _/   /
+                              '.   ''   .'
+                                '-....-'
+
+                [ TRAVEL LOG: ASIA-PACIFIC ]
+    
+       _     _      _    _      _     _      _    _ 
+      | |   | |    | |  | |    | |   | |    | |  | |
+      | |   | |    | |  | |    | |   | |    | |  | |
+      |_|   |_|    |_|  |_|    |_|   |_|    |_|  |_|
+    
+    [ VN | TH | MY | SG | JP | CN | ID | TW ]
+```
+- **Sports**: Regular swimming enthusiast.
 
 ### you can check my resume <a href="https://drive.google.com/file/d/15KrxFbAdso1hMbY9Wd6vFQbwhM6DHWoq/view?usp=drive_link">here</a>.

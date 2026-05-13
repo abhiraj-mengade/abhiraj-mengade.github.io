@@ -9,4 +9,5 @@ permalink: /
 
 i'm currently:
 @Member of Technical Staff at Oracle, Bangalore
+@Co-founder at MontaQ Labs
 +++ a [few other things](about)...
