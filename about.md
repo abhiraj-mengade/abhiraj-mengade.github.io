@@ -39,13 +39,25 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 ---
 
-### Grants & Projects
+### Projects & Hackathons
+
+**[Summa](https://github.com/MontaQLabs/summa)** | Rust, Polkadot PVM, HE
+*SHE library on PVM — Twisted ElGamal, Bulletproofs range proofs, DLEQ proofs, UTXO shielded notes.*
 
 **[Relay](https://relayapp.org)** | $40k Prize & $30k Grant
-*Web3 payments ecosystem. Won **1st place** at Polkadot Bangkok Hackathon; recipient of a $30k Web3 Foundation grant.*
+*Web3 payments. **1st place** at Polkadot Bangkok Hackathon; recipient of a $30k Web3 Foundation grant.*
 
 **[SubLua](https://github.com/PolkadotOpenSourceGrants/apply/pull/24)** | Polkadot Open-Source Bounty
-*Lightweight Substrate SDK for building onchain games using Lua. Pure C/Lua. Funded by the Polkadot Open-Source Bounty.*
+*Lightweight Substrate SDK; pure C/Lua. Funded by the Polkadot Open-Source Bounty.*
+
+**PRIVØRA** | Near AI, Rust
+*Privacy investment platform. **ZypherPunk Hackathon** winner, Near AI track ($5k).*
+
+**[Flow](https://www.moveathon.build/projectgallery#apaceurope)** | Next.js, Move
+*Top 3 at **Moveathon Global: Europe Edition '25**.*
+
+**[GreenTrust](https://github.com/abhiraj-mengade/GreenTrust)** | Next.js, Rust, Polkadot
+*Organic farming certification platform. Top 3 at **Polkadot Global Europe '23**, Paris.*
 
 **[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | $5k Filecoin Grant
 *EV battery swapping platform. **ETH-India '22** winner; recipient of a $5k Filecoin grant.*
@@ -68,13 +80,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 ---
 
-### Achievements & Community
-
-**Winner** | ETHIndia '24, ETHIndia '22, ZypherPunk (Near AI)
-*Won the Near AI track ($5k) at ZypherPunk for **PRIVØRA**, a privacy investment platform.*
-
-**Top 3** | Moveathon Europe '25, Polkadot Paris '23
-*Top 3 at Moveathon Global: Europe Edition '25 for **Flow** and Polkadot Global Europe '23 for **GreenTrust**.*
+### Leadership & Community
 
 **Curator** | [Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)
 *Reviewing and curating open-source project proposals.*
@@ -88,7 +94,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan.
 
-<img src="/assets/img/world-map.png"/>
+<object type="image/svg+xml" data="/assets/img/world-map.svg" style="width:100%; max-width:800px; height:auto; display:block; margin:1em 0;"></object>
 
 **Photography** | [Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)
 **Hobbies** | Swimming, Skiing.
