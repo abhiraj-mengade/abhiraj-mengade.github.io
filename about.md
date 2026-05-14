@@ -55,31 +55,16 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 - **[ArQ](https://montaq.org/arq)** | Education & Community (1200+ participants)
 
 ---
-
 ### Travel & Interests
 
 I've explored Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, and Taiwan.
 
 ```text
-       . _..-''-.._
-     .'          '.
-    /   _..-.._    \        _..-''-.._
-   |   /       \   |      .'          '.
-   |   |       |   |     /   _..-.._    \
-    \   \_   _/   /     |   /       \   |
-     '.   ''   .'        |   |       |   |
-       '-....-'           \   \_   _/   /
-                           '.   ''   .'
-                             '-....-'
-
-                [ TRAVEL LOG: ASIA-PACIFIC ]
-    
-       _     _      _    _      _     _      _    _ 
-      | |   | |    | |  | |    | |   | |    | |  | |
-      | |   | |    | |  | |    | |   | |    | |  | |
-      |_|   |_|    |_|  |_|    |_|   |_|    |_|  |_|
-    
-    [ VN | TH | MY | SG | JP | CN | ID | TW ]
+  [ TRAVEL LOG ]__________________________________________
+ |                                                        |
+ |  SEA: [VN] [TH] [MY] [SG] [ID]                         |
+ |  EAST ASIA: [JP] [CN] [TW]                             |
+ |________________________________________________________|
 ```
 
 - **Photography** | [Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)
