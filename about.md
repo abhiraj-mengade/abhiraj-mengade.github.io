@@ -9,50 +9,50 @@ permalink: /about
 # Abhiraj Mengade
 
 Software Engineer & Entrepreneur building [Skyllai](https://skyllai.com). 
-Co-founder at [MontaQ Labs](https://www.montaq.org/). Previously @ Oracle OCI.
+Co-founder at [MontaQ Labs](https://www.montaq.org/). Previously @ [Oracle OCI](https://www.oracle.com/cloud/).
 
-I graduated from the Polkadot Blockchain Academy (PBA) 2024 Singapore Cohort with Distinction (96.5/100).
+I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/) (2024) and a B.Sc in Data Science from [IIT Madras](https://www.iitm.ac.in/). I also graduated from the [Polkadot Blockchain Academy](https://polkadot.academy/) (PBA) 2024 Singapore Cohort with Distinction (96.5/100).
 
 ---
 
 ### Work
 
-**Skyllai** | Founder | 2026 – Present
+**[Skyllai](https://skyllai.com)** | Founder | 2026 – Present
 *Building the future of education.*
 
-**Oracle Cloud Infrastructure** | MTS | 2024 – 2026
+**[Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)** | MTS | 2024 – 2026
 *Multi-ASN architecture & Zero-Trust network security.*
 
-**Unit Network** | Web3 Consultant | 2025
+**[Unit Network](https://unit.network/)** | Web3 Consultant | 2025
 *Engineered Substrate-based Rust pallets.*
 
-**Deep Forest Sciences** | Consultant | 2023
+**[Deep Forest Sciences](https://deepforestsci.com/)** | Consultant | 2023
 *Designed the Chiron language (EBNF parser).*
 
-**Hexagon AB** | Intern | 2022
-*Interactive Ashby Material Chart module.*
+**[Hexagon AB](https://hexagon.com/)** | Intern | 2022
+*Interactive [Ashby Material Chart](https://github.com/abhiraj-mengade/Ashbychart) module.*
 
-**Teinstein Company** | Intern | 2021
+**[Teinstein Company](https://github.com/Teinstein/finstein)** | Intern | 2021
 *Python package for financial modeling.*
 
 ---
 
 ### Achievements
 
-- **Relay** | 1st Prize @ Polkadot Bangkok ($40k)
-- **PRIVØRA** | Winner @ ZypherPunk Hackathon ($5k)
-- **Flow** | Top 3 @ Moveathon Global: Europe '25
-- **GreenTrust** | Top 3 @ Polkadot Global Europe '23, Paris
-- **Chargeswap** | Winner @ ETH-India '22
-- **PBA Singapore** | Distinction (96.5/100)
+- **[Relay](https://relayapp.org)** | 1st Prize @ Polkadot Bangkok ($40k)
+- **[PRIVØRA](https://github.com/abhiraj-mengade)** | Winner @ ZypherPunk Hackathon ($5k)
+- **[Flow](https://www.moveathon.build/projectgallery#apaceurope)** | Top 3 @ Moveathon Global: Europe '25
+- **[GreenTrust](https://github.com/abhiraj-mengade/GreenTrust)** | Top 3 @ Polkadot Global Europe '23, Paris
+- **[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | Winner @ ETH-India '22
+- **[PBA Singapore](https://polkadot.academy/)** | Distinction (96.5/100)
 
 ---
 
 ### Community & Involvement
 
-- **Polkadot OS Bounty** | Curator (2025 – Present)
-- **PBA-X** | Teaching Assistant (2025)
-- **ArQ** | Education & Community (1200+ participants)
+- **[Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)** | Curator (2025 – Present)
+- **[PBA-X](https://polkadot.academy/)** | Teaching Assistant (2025)
+- **[ArQ](https://montaq.org/arq)** | Education & Community (1200+ participants)
 
 ---
 

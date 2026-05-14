@@ -9,5 +9,5 @@ permalink: /
 
 i'm currently:
 @Building [Skyllai](https://skyllai.com)
-@Co-founder at MontaQ Labs
+@Co-founder at [MontaQ Labs](https://www.montaq.org/)
 +++ a [few other things](about)...
