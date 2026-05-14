@@ -4,7 +4,7 @@ title: /about
 permalink: /about
 ---
 
-<img src="../assets/img/self.jpeg"/>
+<img src="/assets/img/self.jpeg"/>
 
 # Abhiraj Mengade
 
@@ -88,7 +88,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan.
 
-<img src="../assets/img/world-map.png"/>
+<img src="/assets/img/world-map.png"/>
 
 **Photography** | [Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)
 **Hobbies** | Swimming, Skiing.

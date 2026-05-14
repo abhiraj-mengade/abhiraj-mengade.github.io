@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="../assets/img/home.jpg"/>
+<img src="/assets/img/home.jpg"/>
 # Hi, I'm Abhiraj Mengade.
 
 i'm currently:

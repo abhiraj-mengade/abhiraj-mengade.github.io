@@ -3,7 +3,7 @@ layout: page
 title: /contact
 ---
 
-<img src="../assets/img/field.jpg"/>
+<img src="/assets/img/field.jpg"/>
 
 email: [abhiraj.mengade@outlook.com](mailto:abhiraj.mengade@outlook.com)
 twitter: [@AbhirajMengade](https://www.x.com/AbhirajMengade)
