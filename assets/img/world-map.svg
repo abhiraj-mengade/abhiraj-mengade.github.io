@@ -19,8 +19,17 @@
 
 <style>
   path, g { fill: #444444; stroke: #222222; stroke-width: 0.5px; transition: fill 0.2s; }
-  #vn, #vn path, #th, #th path, #my, #my path, #sg, #sg path, #jp, #jp path, #cn, #cn path, #id, #id path, #tw, #tw path, #in, #in path { fill: #4CAF50; cursor: pointer; }
-  #vn:hover, #vn path:hover, #th:hover, #th path:hover, #my:hover, #my path:hover, #sg:hover, #sg path:hover, #jp:hover, #jp path:hover, #cn:hover, #cn path:hover, #id:hover, #id path:hover, #tw:hover, #tw path:hover { fill: #81C784; }
+  /* Visited Countries */
+  #vn, #th, #my, #sg, #jp, #cn, #id, #tw, #in,
+  #vn path, #th path, #my path, #sg path, #jp path, #cn path, #id path, #tw path, #in path { 
+    fill: #4CAF50 !important; 
+    cursor: pointer; 
+  }
+  /* Hover Effect */
+  #vn:hover, #th:hover, #my:hover, #sg:hover, #jp:hover, #cn:hover, #id:hover, #tw:hover, #in:hover,
+  #vn path:hover, #th path:hover, #my path:hover, #sg path:hover, #jp path:hover, #cn path:hover, #id path:hover, #tw path:hover, #in path:hover { 
+    fill: #81C784 !important; 
+  }
 </style>
 <g>
     <path id="_somaliland" d="M512.674,502.797l3.526,2.403l1.046-0.052l8.757-3.008l0.994,3.206l-0.701,2.706l-1.893,1.503l-4.729-0.302l-6.769-4.158L512.674,502.797L512.674,502.797z"/>

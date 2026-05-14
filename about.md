@@ -53,7 +53,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 **[SubLua](https://github.com/PolkadotOpenSourceGrants/apply/pull/24)** | Polkadot Open-Source Bounty
 *Lightweight Substrate SDK; pure C/Lua. Funded by the Polkadot Open-Source Bounty.*
 
-**PRIVØRA** | Near AI, Rust
+**[PRIVØRA](https://devfolio.co/projects/privora-859d)** | Near AI, Rust
 *Privacy investment platform. **ZypherPunk Hackathon** winner, Near AI track ($5k).*
 
 **[Flow](https://www.moveathon.build/projectgallery#apaceurope)** | Next.js, Move
