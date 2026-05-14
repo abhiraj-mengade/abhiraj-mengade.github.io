@@ -19,7 +19,7 @@
 
 <style>
   path, g { fill: #444444; stroke: #222222; stroke-width: 0.5px; transition: fill 0.2s; }
-  #vn, #vn path, #th, #th path, #my, #my path, #sg, #sg path, #jp, #jp path, #cn, #cn path, #id, #id path, #tw, #tw path { fill: #4CAF50; cursor: pointer; }
+  #vn, #vn path, #th, #th path, #my, #my path, #sg, #sg path, #jp, #jp path, #cn, #cn path, #id, #id path, #tw, #tw path, #in, #in path { fill: #4CAF50; cursor: pointer; }
   #vn:hover, #vn path:hover, #th:hover, #th path:hover, #my:hover, #my path:hover, #sg:hover, #sg path:hover, #jp:hover, #jp path:hover, #cn:hover, #cn path:hover, #id:hover, #id path:hover, #tw:hover, #tw path:hover { fill: #81C784; }
 </style>
 <g>

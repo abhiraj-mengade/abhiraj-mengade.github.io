@@ -41,6 +41,9 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 ### Projects & Hackathons
 
+**[Khoj](https://khoj.club)** | AI, AR, Polkadot
+*Geo-location AI treasure hunt. **Top 10 Finalist** at **ETHIndia '24**; Polkadot Track Winner. Backed by Polkadot Fast Grants.*
+
 **[Summa](https://github.com/MontaQLabs/summa)** | Rust, Polkadot PVM, HE
 *SHE library on PVM — Twisted ElGamal, Bulletproofs range proofs, DLEQ proofs, UTXO shielded notes.*
 
@@ -90,13 +93,16 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 ---
 
-### Travel & Interests
+### Hobbies & Interests
 
-Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan.
+**Reading**, **Photography** ([Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)), **Swimming**, **Skiing**.
+
+---
+
+### Travel
+
+Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan, India.
 
 <object type="image/svg+xml" data="/assets/img/world-map.svg" style="width:100%; max-width:800px; height:auto; display:block; margin:1em 0;"></object>
-
-**Photography** | [Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)
-**Hobbies** | Swimming, Skiing.
 
 [View Resume](https://drive.google.com/file/d/15KrxFbAdso1hMbY9Wd6vFQbwhM6DHWoq/view?usp=drive_link)
