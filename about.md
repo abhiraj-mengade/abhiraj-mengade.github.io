@@ -18,56 +18,44 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 ### Work
 
 **[Skyllai](https://skyllai.com)** | Founder | 2026 – Present
-*Building the future of education.*
-
 **[Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)** | MTS | 2024 – 2026
-*Multi-ASN architecture & Zero-Trust network security.*
-
-**[Unit Network](https://unit.network/)** | Web3 Consultant | 2025
-*Engineered Substrate-based Rust pallets.*
-
+**[Unit Network](https://unit.network/)** | Consultant | 2025
 **[Deep Forest Sciences](https://deepforestsci.com/)** | Consultant | 2023
-*Designed the Chiron language (EBNF parser).*
-
-**[Hexagon AB](https://hexagon.com/)** | Intern | 2022
-*Interactive [Ashby Material Chart](https://github.com/abhiraj-mengade/Ashbychart) module.*
-
-**[Teinstein Company](https://github.com/Teinstein/finstein)** | Intern | 2021
-*Python package for financial modeling.*
 
 ---
 
-### Achievements
+### Grants & Funding
 
-- **[Relay](https://relayapp.org)** | 1st Prize @ Polkadot Bangkok ($40k)
-- **[PRIVØRA](https://github.com/abhiraj-mengade)** | Winner @ ZypherPunk Hackathon ($5k)
-- **[Flow](https://www.moveathon.build/projectgallery#apaceurope)** | Top 3 @ Moveathon Global: Europe '25
-- **[GreenTrust](https://github.com/abhiraj-mengade/GreenTrust)** | Top 3 @ Polkadot Global Europe '23, Paris
-- **[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | Winner @ ETH-India '22
-- **[PBA Singapore](https://polkadot.academy/)** | Distinction (96.5/100)
+- **[Relay](https://relayapp.org)** | $30k Web3 Foundation Grant
+- **[SubLua](https://github.com/PolkadotOpenSourceGrants/apply/pull/24)** | Polkadot Open-Source Bounty
+- **[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | $5k Filecoin Grant
+- **[MontaQ Labs](https://montaq.org)** | Web3 Foundation Backed
 
 ---
 
-### Community & Involvement
+### Open Source & Research
 
-- **[Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)** | Curator (2025 – Present)
-- **[PBA-X](https://polkadot.academy/)** | Teaching Assistant (2025)
-- **[ArQ](https://montaq.org/arq)** | Education & Community (1200+ participants)
+- **[IOTA Rust SDK](https://github.com/iotaledger/iota-rust-sdk/pull/982)** | Full C#/.NET 8 bindings & automated patching.
+- **[NEAR Rust SDK](https://github.com/near/near-sdk-rs/pull/1495)** | Implemented missing standard traits & fixed secp256k1 bug.
+- **[DeepChem-DEL](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-f11mk)** | Open Source Framework for DEL Modeling (ChemRxiv '25).
 
 ---
+
+### Achievements & Community
+
+- **1st Prize** | Polkadot Bangkok ($40k) & Polkadot AssetHub Goa
+- **Winner** | ETHIndia '24, ETHIndia '22, ZypherPunk (Near AI)
+- **Top 3** | Moveathon Europe '25, Polkadot Global Paris '23
+- **Curator** | [Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)
+- **Education** | [ArQ](https://montaq.org/arq) (1200+ part.) & PBA-X TA
+
+---
+
 ### Travel & Interests
 
-I've explored Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, and Taiwan.
-
-```text
-  [ TRAVEL LOG ]__________________________________________
- |                                                        |
- |  SEA: [VN] [TH] [MY] [SG] [ID]                         |
- |  EAST ASIA: [JP] [CN] [TW]                             |
- |________________________________________________________|
-```
+Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan.
 
 - **Photography** | [Pexels Portfolio](https://www.pexels.com/@abhiraj-mengade-1478094393/)
-- **Swimming** | Enthusiast.
+- **Hobbies** | Swimming, Skiing.
 
 [View Resume](https://drive.google.com/file/d/15KrxFbAdso1hMbY9Wd6vFQbwhM6DHWoq/view?usp=drive_link)
