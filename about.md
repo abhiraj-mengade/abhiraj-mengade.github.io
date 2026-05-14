@@ -21,9 +21,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 *Building the future of education.*
 
 **[Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)** | MTS | 2024 – 2026
-*   Upgraded multi-ASN architecture for the Autonet team across 10+ datacenters.
-*   Implemented Zero-Trust network security using Calico and OPA; improved code coverage by 25%+.
-*   Designed and shipped deployment testing workflows for the service team.
+*Multi-ASN architecture, Zero-Trust security (Calico/OPA), and service deployment workflows.*
 
 **[Unit Network](https://unit.network/)** | Consultant | 2025
 *Engineered Substrate-based Rust pallets for the Unit blockchain.*
