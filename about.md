@@ -18,36 +18,49 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 ### Work
 
 **[Skyllai](https://skyllai.com)** | Founder | 2026 – Present
+*Building the future of education.*
+
 **[Oracle Cloud Infrastructure](https://www.oracle.com/cloud/)** | MTS | 2024 – 2026
+*Multi-ASN architecture & Zero-Trust network security.*
+
 **[Unit Network](https://unit.network/)** | Consultant | 2025
+*Engineered Substrate-based Rust pallets.*
+
 **[Deep Forest Sciences](https://deepforestsci.com/)** | Consultant | 2023
+*Designed the Chiron language (EBNF parser).*
+
+**[Hexagon AB](https://hexagon.com/)** | Intern | 2022
+*Interactive [Ashby Material Chart](https://github.com/abhiraj-mengade/Ashbychart) module.*
+
+**[Teinstein Company](https://github.com/Teinstein/finstein)** | Intern | 2021
+*Python package for financial modeling.*
 
 ---
 
 ### Grants & Funding
 
-- **[Relay](https://relayapp.org)** | $30k Web3 Foundation Grant
-- **[SubLua](https://github.com/PolkadotOpenSourceGrants/apply/pull/24)** | Polkadot Open-Source Bounty
-- **[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | $5k Filecoin Grant
-- **[MontaQ Labs](https://montaq.org)** | Web3 Foundation Backed
+**[Relay](https://relayapp.org)** | $30k Web3 Foundation Grant
+**[SubLua](https://github.com/PolkadotOpenSourceGrants/apply/pull/24)** | Polkadot Open-Source Bounty
+**[Chargeswap](https://devfolio.co/projects/chargeswap-3527)** | $5k Filecoin Grant
+**[MontaQ Labs](https://montaq.org)** | Web3 Foundation Backed
 
 ---
 
 ### Open Source & Research
 
-- **[IOTA Rust SDK](https://github.com/iotaledger/iota-rust-sdk/pull/982)** | Full C#/.NET 8 bindings & automated patching.
-- **[NEAR Rust SDK](https://github.com/near/near-sdk-rs/pull/1495)** | Implemented missing standard traits & fixed secp256k1 bug.
-- **[DeepChem-DEL](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-f11mk)** | Open Source Framework for DEL Modeling (ChemRxiv '25).
+**[IOTA Rust SDK](https://github.com/iotaledger/iota-rust-sdk/pull/982)** | Full C#/.NET 8 bindings
+**[NEAR Rust SDK](https://github.com/near/near-sdk-rs/pull/1495)** | Core Rust trait implementation
+**[DeepChem-DEL](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-f11mk)** | Framework for DEL Modeling
 
 ---
 
 ### Achievements & Community
 
-- **1st Prize** | Polkadot Bangkok ($40k) & Polkadot AssetHub Goa
-- **Winner** | ETHIndia '24, ETHIndia '22, ZypherPunk (Near AI)
-- **Top 3** | Moveathon Europe '25, Polkadot Global Paris '23
-- **Curator** | [Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)
-- **Education** | [ArQ](https://montaq.org/arq) (1200+ part.) & PBA-X TA
+**1st Prize** | Polkadot Bangkok ($40k) & AssetHub Goa
+**Winner** | ETHIndia '24, ETHIndia '22, ZypherPunk (Near AI)
+**Top 3** | Moveathon Europe '25, Polkadot Paris '23
+**Curator** | [Polkadot OS Bounty](https://github.com/PolkadotOpenSourceGrants/apply)
+**Education** | [ArQ](https://montaq.org/arq) & PBA-X TA
 
 ---
 
