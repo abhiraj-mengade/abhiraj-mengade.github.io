@@ -99,7 +99,7 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 ### Travel
 
-Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan, India, Philippines.
+Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan, India, Philippines, Hong Kong.
 
 <object type="image/svg+xml" data="/assets/img/world-map.svg" style="width:100%; max-width:800px; height:auto; display:block; margin:1em 0;"></object>
 
