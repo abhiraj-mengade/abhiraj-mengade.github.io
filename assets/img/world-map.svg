@@ -20,15 +20,15 @@
 <style>
   path, g { fill: #444444; stroke: #222222; stroke-width: 0.5px; transition: fill 0.2s; }
   /* Visited Countries */
-  #vn, #th, #my, #sg, #jp, #cn, #id, #tw, #in,
-  #vn path, #th path, #my path, #sg path, #jp path, #cn path, #id path, #tw path, #in path { 
-    fill: #4CAF50 !important; 
-    cursor: pointer; 
+  #vn, #th, #my, #sg, #jp, #cn, #id, #tw, #in, #ph,
+  #vn path, #th path, #my path, #sg path, #jp path, #cn path, #id path, #tw path, #in path, #ph path {
+    fill: #4CAF50 !important;
+    cursor: pointer;
   }
   /* Hover Effect */
-  #vn:hover, #th:hover, #my:hover, #sg:hover, #jp:hover, #cn:hover, #id:hover, #tw:hover, #in:hover,
-  #vn path:hover, #th path:hover, #my path:hover, #sg path:hover, #jp path:hover, #cn path:hover, #id path:hover, #tw path:hover, #in path:hover { 
-    fill: #81C784 !important; 
+  #vn:hover, #th:hover, #my:hover, #sg:hover, #jp:hover, #cn:hover, #id:hover, #tw:hover, #in:hover, #ph:hover,
+  #vn path:hover, #th path:hover, #my path:hover, #sg path:hover, #jp path:hover, #cn path:hover, #id path:hover, #tw path:hover, #in path:hover, #ph path:hover {
+    fill: #81C784 !important;
   }
 </style>
 <g>
