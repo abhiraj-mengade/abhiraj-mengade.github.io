@@ -3,14 +3,14 @@
 <svg version="1.1"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     x="0px"
-     y="0px"
-     width="784.077px"
-     height="458.627px"
      viewBox="30.767 241.591 784.077 458.627"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="map-title map-description"
      id="world-map">
-<title>Simple World Map</title>
-<desc>
+<title id="map-title">Countries visited by Abhiraj Mengade</title>
+<desc id="map-description">
+    Visited countries are highlighted in green.
     Author: Al MacDonald
     Editor: Fritz Lekschas
     License: CC BY-SA 3.0
@@ -18,17 +18,17 @@
 </desc>
 
 <style>
-  path, g { fill: #444444; stroke: #222222; stroke-width: 0.5px; transition: fill 0.2s; }
+  path, g { fill: #d9dedb; stroke: #ffffff; stroke-width: 0.65px; transition: fill 0.2s; }
   /* Visited Countries */
   #vn, #th, #my, #sg, #jp, #cn, #id, #tw, #in, #ph,
   #vn path, #th path, #my path, #sg path, #jp path, #cn path, #id path, #tw path, #in path, #ph path {
-    fill: #4CAF50 !important;
+    fill: #2f7d55 !important;
     cursor: pointer;
   }
   /* Hover Effect */
   #vn:hover, #th:hover, #my:hover, #sg:hover, #jp:hover, #cn:hover, #id:hover, #tw:hover, #in:hover, #ph:hover,
   #vn path:hover, #th path:hover, #my path:hover, #sg path:hover, #jp path:hover, #cn path:hover, #id path:hover, #tw path:hover, #in path:hover, #ph path:hover {
-    fill: #81C784 !important;
+    fill: #49a675 !important;
   }
 </style>
 <g>

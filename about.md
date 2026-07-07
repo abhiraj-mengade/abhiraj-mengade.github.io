@@ -101,6 +101,9 @@ I hold a B.Tech in Computer Science from [NIT Karnataka](https://www.nitk.ac.in/
 
 Vietnam, Thailand, Malaysia, Singapore, Japan, China, Indonesia, Taiwan, India, Philippines, Hong Kong.
 
-<object type="image/svg+xml" data="/assets/img/world-map.svg" style="width:100%; max-width:800px; height:auto; display:block; margin:1em 0;"></object>
+<figure class="travel-map">
+  <img src="/assets/img/world-map.svg" alt="World map highlighting countries Abhiraj has visited">
+  <figcaption>Countries visited</figcaption>
+</figure>
 
 [View Resume](https://drive.google.com/file/d/15KrxFbAdso1hMbY9Wd6vFQbwhM6DHWoq/view?usp=drive_link)
